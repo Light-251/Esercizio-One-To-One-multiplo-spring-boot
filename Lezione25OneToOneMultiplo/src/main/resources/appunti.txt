@@ -1,0 +1,15 @@
+ES OneTOOne multiplo:
+Persona -> Computer -> Monitor
+
+monitor:
+-marca : str
+-pollici : double
+
+
+pc:
+-marca : str
+-prezzo : double
+
+Persona:
+-nome : str
+-cognome : str
